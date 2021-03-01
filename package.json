@@ -64,7 +64,7 @@
     "react-use-media": "^0.3.0",
     "styled-components": "^5.1.0",
     "swr": "^0.2.0",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "typeface-lora": "^0.0.72",
     "use-immer": "^0.4.0",
     "waait": "^1.0.5"
